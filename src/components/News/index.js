@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Header = styled.h1`
   text-align: center;
+  font-weight: bolder;
   margin-top: 120px;
   color: #fff;
   margin-bottom: 20px;
